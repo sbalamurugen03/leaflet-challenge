@@ -21,3 +21,5 @@ Data points colors change with depth level
 Each point has a tooltip with the Magnitude, the location and depth 
 
 All data points load in the correct locations 
+
+The app is deployed to the static github page. https://sbalamurugen03.github.io/leaflet-challenge/Leaflet-Part-1/
